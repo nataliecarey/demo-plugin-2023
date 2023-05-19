@@ -2,5 +2,5 @@
   "scripts": ["/demo.js"],
   "templates": [
     {"type": "nunjucks", "path": "/templates/national-insurance-question.njk"}
-  }
+  ]
 }
